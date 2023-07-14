@@ -1,5 +1,5 @@
 <h1 align="center">Hola! Soy Simón</h1>
-<h3 align="center">Un apasionado Desarrollador Web</h3>
+<h3 align="center">Un apasionado Desarrollador Web especializado en FrontEnd</h3>
 
 - Actualmente estoy aprendiendo **Python y React**
 
